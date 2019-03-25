@@ -6,3 +6,5 @@ We generated the output of the data (PV) following the equation:
 ![equation]( https://latex.codecogs.com/gif.latex?PV=\frac{N}{(1+r)^{t}})
 
 But this is not considered anywhere in the analysis nor in the fitting process - the objective is by looking at the data and its components try to map and systematically fit the data in order to identify how the PV correlates to all the input data. This is quite a common data analysis problem.
+
+![alt text](https://github.com/costargc/DataAnalysis/blob/master/screenshots/all.JPG)
